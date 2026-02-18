@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="ccnplfclffgnfakompcagfockppploni">
-    <updatecheck codebase="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/YouTubeHandleLocker.crx" version="1.4.0"/>
+    <updatecheck codebase="https://iriduan900.github.io/yt-handle-locker-host/YouTubeChannelLockerExt.crx" version="1.4.0"/>
   </app>
 </gupdate>
